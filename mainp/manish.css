@@ -1,0 +1,75 @@
+body
+{
+	background: url(https://cdn.pixabay.com/photo/2016/12/21/10/10/begging-1922612_960_720.png);
+	background-repeat: no-repeat;
+	background-size: 1400px 800px;
+}
+#small
+{
+	margin-left: 600px;
+}
+#heading
+{
+	font-size: 22px;
+	font-family:"georgia";
+	background: #000000;
+	color: #ffffff;
+
+}
+#But
+{
+  font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #4CAF50;
+	width:300px;
+	border:0;
+	padding:15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
+#utt
+{
+font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #F45C3F;
+	width:300px;
+	border:0;
+	padding:15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
+#mou
+{font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	
+	background: #3578E5;
+	color:#ffffff;
+	width:300px;
+	border:0;
+	padding: 15px;
+	font-size: 14px;
+	cursor:pointer;
+
+}
+#cha
+{
+font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	 margin-right:300px;
+	outline: 0;
+	background:#A01AF2   ;
+	width:300px;
+	border:0;
+	padding:15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
+.act
+{
+	margin-left: 425px
+}

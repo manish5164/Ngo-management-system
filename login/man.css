@@ -1,0 +1,26 @@
+#lg
+{
+	font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #4CAF50;
+	width:250px;
+	border:0;
+	padding:15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
+#fee
+{
+	font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	outline: 1;
+	background: #4CAF50;
+	width:250px;
+	border:0;
+	padding:15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}

@@ -1,0 +1,47 @@
+.man
+{
+	margin-left: 500px;
+}
+.man input{
+	
+	font-family: "Roboto",sans-serif;
+	outline: 1;
+	background:#f2f2f2;
+	width:400px;
+	border:0;
+	margin:0 0 15px;
+    padding:15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    text: uppercase;
+
+}
+body
+{
+	background: url(https://cdn.pixabay.com/photo/2015/10/22/13/34/help-1001190_960_720.jpg);
+	background-repeat: no-repeat;
+	background-size: 1400px 900px
+}
+label
+{
+	color: #ffffff;
+}
+h1
+{
+	color:#ffffff;
+	margin-left: 100px;
+}
+.man button
+{
+	font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #F45C3F;
+	width:150px;
+	border:0;
+	padding:10px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 200px
+}

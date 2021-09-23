@@ -1,0 +1,63 @@
+body
+{
+	background: url("https://cdn.pixabay.com/photo/2014/08/25/17/17/offering-427297__340.jpg");
+	background-repeat: no-repeat;
+	background-size: 1400px 800px;
+}
+
+.special
+{
+	margin-left: 450px ;
+	padding: 45px;
+	margin-bottom: 300px;
+	
+	text-align: center;
+	max-width: 200px
+	
+}
+#header
+{
+	margin-left:  450px
+}
+.special input
+{
+	font-family: "Roboto",sans-serif;
+	outline: 1;
+	background:#f2f2f2;
+	width:168%;
+	border:0;
+	margin:0 0 15px;
+    padding:15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.special button
+{
+	font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #F45C3F;
+	width:168%;
+	border:0;
+	padding:15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
+#head
+{
+  font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	 margin-right:300px;
+	outline: 0;
+	background:#A01AF2   ;
+	width:150%;
+	border:0;
+	padding:15px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+   
+}
+
+	
